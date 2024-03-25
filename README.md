@@ -3,16 +3,28 @@
 UKHO Testing Documentation 
 
 https://github.com/UKHO/docs/tree/main/quality-assurance
-https://github.com/UKHO/playwright-template 
+https://github.com/UKHO/playwright-template
 
 # Accessibility
 
-https://www.w3.org/TR/WCAG21/ - Web Content Accessibility Guidelines (WCAG) 2.1
-https://accessibilityinsights.io/docs/windows/overview/ - Manual Testing Browser Assessment Tool 
-https://github.com/guidepup/guidepup?tab=readme-ov-file - screen reading automation
-https://liptrot.org/ - accessibility blog
-https://accessibility-manual.dwp.gov.uk/best-practice/manual-testing-using-tools/#accessibility-insights-assessment-extension - gov guidelines
-https://github.com/andrewhick/accessibility/wiki/WCAG-decision-tree#labels-and-assistive-technology-support - WCAG Decision Tree
+Web Content Accessibility Guidelines (WCAG) 2.1
+https://www.w3.org/TR/WCAG21/
+
+Manual Testing Browser Assessment Tool
+https://accessibilityinsights.io/docs/windows/overview/
+
+screen reading automation
+https://github.com/guidepup/guidepup?tab=readme-ov-file
+
+accessibility blog
+https://liptrot.org/
+
+gov guidelines
+https://accessibility-manual.dwp.gov.uk/best-practice/manual-testing-using-tools/#accessibility-insights-assessment-extension
+
+WCAG Decision Tree
+https://github.com/andrewhick/accessibility/wiki/WCAG-decision-tree#labels-and-assistive-technology-support
+
 
 # Example Code Repos
 
